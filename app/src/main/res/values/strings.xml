@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW5B</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bid_screen">BidScreen</string>
+    <string name="title_activity_rules_help">rulesHelp</string>
+</resources>
